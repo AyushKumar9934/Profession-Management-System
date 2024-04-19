@@ -1,0 +1,13 @@
+.form{
+    display: flex
+}
+#h3{
+    color: green
+}
+.success-message {
+    display: none; /* Hide the message by default */
+    padding: 10px;
+    background-color: #5cb85c; /* Green background */
+    color: white;
+    text-align: center;
+  }
